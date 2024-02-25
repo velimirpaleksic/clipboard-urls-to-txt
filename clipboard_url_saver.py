@@ -41,4 +41,4 @@ if __name__ == "__main__":
             save_url_to_file(url, file_path)
 
         # Sleep for a short duration before checking again
-        time.sleep(0.1)
+        time.sleep(5)
